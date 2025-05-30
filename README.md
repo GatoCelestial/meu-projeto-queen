@@ -1,7 +1,5 @@
 # meu-projeto-queen
 O projeto do mais mais da school
-
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -178,7 +176,8 @@ O projeto do mais mais da school
                 <a href="#saiba-mais" class="btn">Saiba mais</a>
             </div>
             <div class="hero-image">
-                <img src="https://via.placeholder.com/500x350?text=Aghata+Nunes+1" alt="Aghata Nunes representando a marca Serenax">
+                <!-- Substitua pelo caminho real da imagem -->
+                <img src="images/aghata-nunes-1.jpg" alt="Aghata Nunes representando a marca Serenax">
             </div>
         </div>
     </section>
@@ -218,10 +217,11 @@ O projeto do mais mais da school
             <p>Conheça nossa campanha com a embaixadora Aghata Nunes, que representa perfeitamente a mensagem de superação e bem-estar que o Serenax promove.</p>
             
             <div class="gallery">
-                <img src="https://via.placeholder.com/300x400?text=Aghata+Nunes+1" alt="Aghata Nunes Campanha Serenax">
-                <img src="https://via.placeholder.com/300x400?text=Aghata+Nunes+2" alt="Aghata Nunes Campanha Serenax">
-                <img src="https://via.placeholder.com/300x400?text=Aghata+Nunes+3" alt="Aghata Nunes Campanha Serenax">
-                <img src="https://via.placeholder.com/300x400?text=Aghata+Nunes+4" alt="Aghata Nunes Campanha Serenax">
+                <!-- Substitua pelos caminhos reais das imagens -->
+                <img src="images/aghata-nunes-1.jpg" alt="Aghata Nunes Campanha Serenax">
+                <img src="images/aghata-nunes-2.jpg" alt="Aghata Nunes Campanha Serenax">
+                <img src="images/aghata-nunes-3.jpg" alt="Aghata Nunes Campanha Serenax">
+                <img src="images/aghata-nunes-4.jpg" alt="Aghata Nunes Campanha Serenax">
             </div>
         </div>
     </section>
