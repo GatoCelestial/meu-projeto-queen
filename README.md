@@ -2,11 +2,6 @@
 O projeto do mais mais da school
 
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
